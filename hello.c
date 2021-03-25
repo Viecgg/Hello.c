@@ -25,5 +25,6 @@ int main()
 	for(int i = 0; i < n; i ++) scanf("%d",&q[i]);
 	
 	quick_sort(q, 0, n - 1);
+	//loving xiongfang.
 	return 0;
 }
